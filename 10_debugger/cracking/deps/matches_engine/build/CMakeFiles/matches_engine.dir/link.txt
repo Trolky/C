@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmatches_engine.a CMakeFiles/matches_engine.dir/src/matches.c.o
+/usr/bin/ranlib libmatches_engine.a

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/fpartl/university/teaching/kiv-pc/src/10_debugger/cracking/deps/matches_engine/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/matches_engine.dir/src/matches.c.o -c /home/fpartl/university/teaching/kiv-pc/src/10_debugger/cracking/deps/matches_engine/src/matches.c",
+  "file": "/home/fpartl/university/teaching/kiv-pc/src/10_debugger/cracking/deps/matches_engine/src/matches.c",
+  "output": "CMakeFiles/matches_engine.dir/src/matches.c.o"
+}
+]
